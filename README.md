@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# ANA361 - Integrating SAP Analytics Cloud and SAP Data Warehouse Cloud
 
 ## Description
 
