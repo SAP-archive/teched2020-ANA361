@@ -14,15 +14,22 @@ Attendees of the session will need access to Google Chrome and an Internet conne
 
 ## How to get started?
 
-...
+Download the Exercise and Resource Material.
+
+In case you attend the SAP TechED Live session you will receive the server and user details in the session.
+
+In case you using this material outside of the Live session, you can request a trial and complete the exercises using the trial. The steps are outlined in the beginning of the Exercise Material.
 
 ## Exercises
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
+Download the Exercise Material here: [SAP TechED ANA361 Exercise Material]
+
+Download the presentation slide here: [SAP TechED ANA361 Presentation Slides]
+
 
 ## Additional Resources
 
-...
+During the exercises you will needed these additional files: [SAP TechED ANA361 Additional Resources]
 
 ## How to obtain support
 
