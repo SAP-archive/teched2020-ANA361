@@ -12,10 +12,17 @@ In this hands-on session, you will use the SAP Analytics Cloud solution on top o
 
 Attendees of the session will need access to Google Chrome and an Internet connection
 
+## How to get started?
+
+...
+
 ## Exercises
 
 Start the exercises [here](exercises/myPDFDoc.pdf).
 
+## Additional Resources
+
+...
 
 ## How to obtain support
 
