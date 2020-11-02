@@ -22,14 +22,14 @@ In case you using this material outside of the Live session, you can request a t
 
 ## Exercises
 
-Download the Exercise Material here: [SAP TechED ANA361 Exercise Material]
+Download the Exercise Material here: [SAP TechED ANA361 Exercise Material](exercises/ANA361_EXERCISES.pdf)
 
-Download the presentation slide here: [SAP TechED ANA361 Presentation Slides]
+Download the presentation slide here: [SAP TechED ANA361 Presentation Slides](exercises/ANA361_SLIDES.pdf)
 
 
 ## Additional Resources
 
-During the exercises you will needed these additional files: [SAP TechED ANA361 Additional Resources]
+During the exercises you will needed these additional files: [SAP TechED ANA361 Additional Resources](exercises/ANA361_RESOURCES.zip)
 
 ## How to obtain support
 
